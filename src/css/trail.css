@@ -1,0 +1,24 @@
+.grid {
+    width: 100%;
+    
+}
+.one {
+    top: 62px;
+    left: -30px;
+}
+.search {
+    padding-top: 60px;
+    padding-left: 200px;
+}
+.bell {
+    padding-top: 60px;
+    padding-left: 90px;
+}
+.user{
+    padding-top: 60px;
+    padding-left: 70px;
+}
+.angle {
+    /* padding-top: 60px; */
+    padding-left: 450px;
+}
