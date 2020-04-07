@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/app-sematic/static/css/main.72e05502.chunk.css",
+    "main.js": "/app-sematic/static/js/main.11d41a01.chunk.js",
+    "main.js.map": "/app-sematic/static/js/main.11d41a01.chunk.js.map",
+    "runtime-main.js": "/app-sematic/static/js/runtime-main.1a6db880.js",
+    "runtime-main.js.map": "/app-sematic/static/js/runtime-main.1a6db880.js.map",
+    "static/css/2.9e01c58b.chunk.css": "/app-sematic/static/css/2.9e01c58b.chunk.css",
+    "static/js/2.c7594abe.chunk.js": "/app-sematic/static/js/2.c7594abe.chunk.js",
+    "static/js/2.c7594abe.chunk.js.map": "/app-sematic/static/js/2.c7594abe.chunk.js.map",
+    "index.html": "/app-sematic/index.html",
+    "precache-manifest.711072c4f6daaaa16a0b1f000b547bbe.js": "/app-sematic/precache-manifest.711072c4f6daaaa16a0b1f000b547bbe.js",
+    "service-worker.js": "/app-sematic/service-worker.js",
+    "static/css/2.9e01c58b.chunk.css.map": "/app-sematic/static/css/2.9e01c58b.chunk.css.map",
+    "static/css/main.72e05502.chunk.css.map": "/app-sematic/static/css/main.72e05502.chunk.css.map",
+    "static/js/2.c7594abe.chunk.js.LICENSE.txt": "/app-sematic/static/js/2.c7594abe.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/app-sematic/static/media/outline-icons.ef60a4f6.woff",
+    "static/media/logo.svg": "/app-sematic/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1a6db880.js",
+    "static/css/2.9e01c58b.chunk.css",
+    "static/js/2.c7594abe.chunk.js",
+    "static/css/main.72e05502.chunk.css",
+    "static/js/main.11d41a01.chunk.js"
+  ]
+}
